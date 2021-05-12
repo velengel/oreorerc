@@ -1,0 +1,2 @@
+# oreorerc
+さいきょーの.oreorercをつくろう
