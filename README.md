@@ -2,4 +2,4 @@
 さいきょーの.oreorercをつくろう
 
 
-pull request 随時募集中
+issue, pull request 随時募集中
